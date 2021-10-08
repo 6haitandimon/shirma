@@ -204,8 +204,11 @@ body{
 /*adaptation*/
 
 @media screen and (min-width: 1001px) {
+    div.container{
+        width: 70%;
+    }
     div.found{
-
+        max-width: 80vw;
     }
     img.logo{
     width: 73%;
@@ -235,6 +238,11 @@ body{
 }
 
 @media screen and (max-width: 1000px) {
+    div.container{
+        width: 90%;
+    }    div.found{
+        max-width: 95vw;
+    }
     a.prev{
         font-size: 3vw;
         left: 4%;
