@@ -108,7 +108,7 @@ body{
 .info{
     width: 100%;
     margin: 0 auto;
-    font-size: 1vw;
+    font-size: 1.5vw;
 }
 
 .par{
@@ -129,7 +129,7 @@ body{
 .certif{
     width: 80%;
     margin: 0 auto;
-    font-size: 19px;
+    font-size: 1vw;
     padding-bottom: 2%;
 }
 
@@ -142,11 +142,11 @@ body{
 
 .cert_out{
     text-align: left;
-    font-size: 14px;
+    font-size: 0.9vw;
 }
 .cert_date{
     text-align: right;
-    font-size: 16px;
+    font-size: 0.9vw;
 }
 
 .grade{
