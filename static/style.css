@@ -114,6 +114,15 @@ body{
 .par{
     margin-top: 2vh;
 }
+.par_poem{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 2vh;
+}
+.par_poem_text{
+    font-size: 1.2vw;
+    margin: 0 auto;
+}
 .par-dev{
     margin-bottom: 3vh;
 }
@@ -174,10 +183,12 @@ body{
 }
 
 .ul {
-    padding-left: 3%;
+    padding-left: 4%;
 }
 
-
+li{
+    margin-top: 0.7%;
+}
 /*button*/
 
 .prev{
