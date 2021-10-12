@@ -121,11 +121,20 @@ body{
 }
 .par_poem_text{
     font-size: 1.2vw;
-    margin: 0 auto;
+    text-align: center;
+    font-style: italic;   
 }
+.par_poem_autor{
+    text-align: right;
+    font-size: 1.2vw;
+}
+
 .par-dev{
     margin-bottom: 3vh;
+    
 }
+
+
 
 .certificate{
     width: 90%;    
